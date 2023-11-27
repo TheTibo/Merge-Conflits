@@ -1,3 +1,3 @@
-REMOTE # Merge-Conflits
+LOCAL # Merge-Conflits
 
 TEST
