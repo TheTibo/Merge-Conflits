@@ -1,5 +1,3 @@
-REMOTE
-
 # Merge-Conflits
 
 TEST
